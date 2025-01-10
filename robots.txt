@@ -6,4 +6,4 @@ User-agent: CCBot
 Disallow: /
 User-agent: *
 Disallow:
-Sitemap: https://lilaperlmutt.github.io/Christa/sitemap.xml
+Sitemap: https://kanzlei-fehrensen.de/sitemap.xml

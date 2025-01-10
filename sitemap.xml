@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://lilaperlmutt.github.io/Christa/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://kanzlei-fehrensen.de/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://lilaperlmutt.github.io/Christa/</loc>
+<loc>https://kanzlei-fehrensen.de/</loc>
 </url>
 <url>
-<loc>https://lilaperlmutt.github.io/Christa/familienrecht.html</loc>
+<loc>https://kanzlei-fehrensen.de/familienrecht.html</loc>
 <lastmod>2025-01-10T09:56:52+01:00</lastmod>
 </url>
 <url>
-<loc>https://lilaperlmutt.github.io/Christa/strafrecht.html</loc>
+<loc>https://kanzlei-fehrensen.de/strafrecht.html</loc>
 <lastmod>2025-01-10T10:00:24+01:00</lastmod>
 </url>
 <url>
-<loc>https://lilaperlmutt.github.io/Christa/verkehrsrecht.html</loc>
+<loc>https://kanzlei-fehrensen.de/verkehrsrecht.html</loc>
 <lastmod>2025-01-10T10:03:56+01:00</lastmod>
 </url>
 </urlset>
